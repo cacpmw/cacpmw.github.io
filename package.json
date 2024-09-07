@@ -8,11 +8,16 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "prettier:check": "prettier . --check",
+    "prettier:write": "prettier . --write",
     "lint": "next lint"
   },
   "dependencies": {
     "next": "^14.2.8",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3"
   }
 }
