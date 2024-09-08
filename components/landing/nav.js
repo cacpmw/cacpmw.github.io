@@ -1,3 +1,4 @@
+import Link from "next/link";
 function Nav() {
   return (
     <nav>
@@ -11,6 +12,7 @@ function Nav() {
       <a target="_blank" href="https://github.com/cacpmw">
         Github
       </a>
+      {/* <Link href="/blog">| Blog</Link> */}
     </nav>
   );
 }
