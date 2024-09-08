@@ -4,7 +4,7 @@ export default function Document() {
   return (
     <Html>
       <Head title="Carlos Carneiro" />
-      <body>
+      <body className="container mx-auto px-100">
         <Main />
         <NextScript />
       </body>

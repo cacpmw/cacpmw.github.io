@@ -1,6 +1,6 @@
 function Bio() {
   return (
-    <article>
+    <article className="mt-5 mb-5">
       <p>
         Com 10 anos de experiência como engenheiro de software, trabalhei em uma
         variedade de projetos, desde a construção de plataformas de eCommerce
