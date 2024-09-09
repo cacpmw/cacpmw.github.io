@@ -1,9 +1,6 @@
 function Certificates() {
   return (
-    <section id="#certificates">
-      <h2>Certificates</h2>
-      <hr />
-
+    <div>
       <div>
         <span>
           <strong>GoStack 14 - Rocketseat</strong>{" "}
@@ -51,7 +48,7 @@ function Certificates() {
           </a>
         </span>{" "}
       </div>
-    </section>
+    </div>
   );
 }
 export default Certificates;

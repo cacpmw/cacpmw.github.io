@@ -1,9 +1,6 @@
 function Volunteering() {
   return (
     <section id="volunteering">
-      <h2>Trabalho Voluntario</h2>
-      <hr />
-
       <div>
         <span>
           <strong>APAE</strong>
