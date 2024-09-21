@@ -1,0 +1,183 @@
+{
+  "cv": {
+    "socialMedia": {
+      "label": "Social Media",
+      "values": [
+        {
+          "title": "LinkedIn",
+          "linkedin": "https://www.linkedin.com/in/carlos-albuquerque-carneiro/"
+        },
+        {
+          "title": "Github",
+          "github": "https://www.github.com/cacpmw"
+        }
+      ]
+    },
+    "name": "Carlos Carneiro",
+    "title": "Full Stack Engineer",
+    "location": "Jaragua do sul - SC, Brazil",
+    "skills": {
+      "label": "Skills",
+      "values": [
+        "NodeJS",
+        "ReactJS",
+        "NextJS",
+        "Tailwind CSS",
+        "Clean Code",
+        "Docker",
+        "AWS",
+        "GIT",
+        "DDD",
+        "Redis",
+        "TypeORM",
+        "Sequelize",
+        "Drizzle",
+        "Vercel",
+        "Unit Tests",
+        "Integration Tests",
+        "MySql",
+        "Postgres",
+        "MongoDB",
+        "Laravel",
+        "Linux",
+        "Windows",
+        "Macintosh"
+      ]
+    },
+    "contact": {
+      "label": "Contact",
+      "value": "carloscarneiropmw@gmail.com"
+    },
+    "about": {
+      "label": "About",
+      "value": "With over 10 years of experience as a software engineer, I've worked on a range of projects, from building eCommerce platforms to developing systems for supply chain management, finance, and HR. My work has always focused on creating practical solutions that meet business needs, using my skills to improve efficiency and deliver results in diverse industries.With over 10 years of experience as a software engineer, I've worked on a range of projects, from building eCommerce platforms to developing systems for supply chain management, finance, and HR. My work has always focused on creating practical solutions that meet business needs, using my skills to improve efficiency and deliver results in diverse industries."
+    },
+    "certificates": {
+      "label": "Certificates",
+      "values": [
+        {
+          "name": "Go Stack 14",
+          "institution": "Rocketseat",
+          "certificateLink": "https://app.rocketseat.com.br/certificates/43ea09c2-3315-458a-9feb-fe85012aa0d9"
+        },
+        {
+          "name": "Laravel - Restful API with Passport Authentication ",
+          "institution": "Udemy",
+          "certificateLink": "https://www.udemy.com/certificate/UC-NK8AK9UW/"
+        },
+        {
+          "name": "Web Design for Beginners: Real World Coding in HTML & CSS",
+          "institution": "Udemy",
+          "certificateLink": "https://www.udemy.com/certificate/UC-EWUZKMWV/"
+        }
+      ]
+    },
+    "volunteering": {
+      "label": "Volunteer Work",
+      "values": [
+        {
+          "institution": "Associations of Parents and Friends of Exceptional ChildrenAssociations of Parents and Friends of Exceptional Children",
+          "description": "Through my work, I enhance the quality of life for exceptional children by raising awareness about their unique needs and challenges. In the Associations of Parents and Friends of Exceptional Children, I contribute to building a supportive network for families facing similar challenges, fostering strength, shared knowledge, and encouragement.Through my work, I enhance the quality of life for exceptional children by raising awareness about their unique needs and challenges. In the Associations of Parents and Friends of Exceptional Children, I contribute to building a supportive network for families facing similar challenges, fostering strength, shared knowledge, and encouragement."
+        }
+      ]
+    },
+    "education": {
+      "label": "Education",
+      "values": [
+        {
+          "intitution": "UniCatólica – Centro Universitário Católica do Tocantins",
+          "location": "Palmas - TO, Brazil",
+          "year": 2017,
+          "type": "Bsc",
+          "course": "Information Systems",
+          "description": {
+            "bullets": {
+              "first": "Built a strong foundation in Object-Oriented Programming (OOP), which led to being hired as a professional web developer well before graduation.",
+              "second": "Gained hands-on experience by developing desktop applications, web applications, mobile apps, and games, which enhanced my ability to work with a variety of technologies",
+              "third": "Learned to transition smoothly between different tech stacks, thanks to the diverse range of projects tackled during the course, preparing me for a versatile career in software development."
+            }
+          }
+        }
+      ]
+    },
+    "workExperience": {
+      "label": "Work Experience",
+      "values": [
+        {
+          "institution": "Wound Solutions of Texas (United States)",
+          "position": "Full Stack Engineer",
+          "timeFrame": "May 2024 - Current",
+          "description": {
+            "first": "Developed internal software using Node.js and React.js in a dockerized environment, which reduced the time needed to process medical reports by 30% and ensured compliance with Medicare standards.",
+            "second": "I automated daily tasks efficiently using Python scripts to process PDF files."
+          }
+        },
+        {
+          "institution": "Oowlish (United States)",
+          "position": "Full Stack Engineer",
+          "timeFrame": "Jan 2021 - July 2023",
+          "description": {
+            "first": "Led a Proof of Concept (POC) to redesign the PETCO PupBox website, transitioning from a poorly designed system to a robust platform by rebuilding it from scratch using Node.js, Next.js, and TypeScript in a dockerized environment, resulting in a scalable and maintainable solution.",
+            "second": "Ensured ADA compliance on the PupBox website by implementing accessibility features during the redesign process, which improved the user experience for customers with disabilities and aligned the site with legal standards.",
+            "third": "Enhanced API performance by applying Domain-Driven Design, unit testing, and data caching techniques, resulting in faster response times and a more maintainable codebase that could be easily managed by other developers."
+          }
+        },
+        {
+          "institution": "OpTime Rotas (Startup - Brazil)",
+          "position": "Full Stack Engineer",
+          "timeFrame": "Feb 2020 - Jan 2021",
+          "description": {
+            "first": "Developed a service platform using Laravel and JavaScript to quickly bring Optime Rotas’ vehicle routingcalculator, originally written in C, to market, enabling the company to offer their routing services online.",
+            "second": "Integrated Google Maps API into the platform, allowing users to visualize routes and track vehicles in real-time, which enhanced the platform’s functionality and improved user experience.",
+            "third": "Streamlined the backend processes by leveraging Laravel to connect the C-based routing calculator with the new web platform, ensuring seamless data flow and efficient route calculations, leading to faster and more reliable service delivery."
+          }
+        },
+        {
+          "institution": "ZAMApps (United States)",
+          "position": "Full Stack Engineer",
+          "timeFrame": "Jun 2019 - Feb 2020",
+          "description": {
+            "first": "Developed new features and enhanced existing ones for multiple projects within the wine industry using Laravel and Vue.js, ensuring the software remained efficient and aligned with industry best practices",
+            "second": "Integrated Google Maps API into the platform, allowing users to visualize routes and track vehicles in real-time, which enhanced the platform’s functionality and improved user experience.",
+            "third": "Collaborated across teams to integrate new technologies and refine existing code, using Laravel for backenddevelopment and Vue.js for frontend improvements, which contributed to the continuous improvement and success of various wine industry projects."
+          }
+        },
+        {
+          "institution": "Recrutei (Startup - Brazil)",
+          "position": "Full Stack Engineer",
+          "timeFrame": "Nov 2018 - Jun 2019",
+          "description": {
+            "first": "SaaS Product Restructuring: Overhauled the SaaS product following the MVC model using the Laravel framework, ensuring alignment with official documentation and industry best practices.",
+            "second": "API Development: Led a strategic shift towards API development to serve larger clients, directly influencing the company’s long-term vision.",
+            "third": "Technical Leadership: Actively participated in key technical and business decisions, collaborating with investors, clients, and the board of directors.",
+            "forth": "Recruitment: Designed and assessed technical exams for the company's first IT team expansion, ensuring the hiring of high-caliber candidates."
+          }
+        },
+        {
+          "institution": "Cedro Technologies (Brazil)",
+          "position": "Full Stack Engineer",
+          "timeFrame": "May 2018 - Nov 2018",
+          "description": {
+            "first": "Financial Solutions Development: Created advanced solutions for the financial market using .NET Core 2.0 and Angular 6.",
+            "second": "Frontend Expertise: Gained practical experience with Angular 6 as a frontend framework, enhancing the user interface of web applications.",
+            "third": "Team Collaboration: Worked closely with a small development team to generate and implement innovative ideas for web applications.",
+            "forth": "Content Contribution: Wrote and published technical articles on the company's blog, sharing insights and knowledge with a broader audience.",
+            "fifth": "Architectural Discussions: Actively participated in discussions on architectural and business process decisions, contributing to the overall strategy."
+          }
+        },
+        {
+          "institution": "Universidade Estadual do Tocantins (Brazil)",
+          "position": "Backend Developer",
+          "timeFrame": "Nov 2014 - May 2018",
+          "description": {
+            "first": "Application Management: Maintained, enhanced, and supported over 50 web applications stored on the company’s Git server, using a variety of technologies.",
+            "second": "Focused Management: Managed about 10 applications, primarily using ASP.NET, with some in PHP.",
+            "third": "Database Collaboration: Worked closely with a DBA to make technical decisions for SQL Server and MySQL databases.",
+            "forth": "Product Development: Actively participated in product cycle meetings, contributing to discussions on new features and improvements.",
+            "fifth": "User Engagement: Presented new features to users, ensuring they were informed and trained on updates."
+          }
+        }
+      ]
+    }
+  }
+}
