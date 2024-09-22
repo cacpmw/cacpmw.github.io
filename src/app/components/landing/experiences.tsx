@@ -13,7 +13,7 @@ function Experiences() {
             duration="Maio 2024 - Atualmente"
             location="Dallas, TX - Estados Unidos"
           >
-            <ul className="list-disc space-y-1">
+            <ul className="list-disc space-y-1 > li ml-10">
               <li>
                 Desenvolvi software interno utilizando Node.js e React.js em um
                 ambiente dockerizado, o que reduziu em 30% o tempo necessário
@@ -34,7 +34,7 @@ function Experiences() {
             duration="Janeiro 2021 - Julho 2023"
             location="Estados Unidos"
           >
-            <ul className="list-disc space-y-1">
+            <ul className="list-disc space-y-1 > li ml-10">
               <li>
                 Liderei uma Prova de Conceito (POC) para redesenhar o site da
                 PETCO PupBox, fazendo a transição de um sistema mal projetado
@@ -65,7 +65,7 @@ function Experiences() {
             duration="Janeiro 2020 - Setembro 2020"
             location="Uberlandia, MG - Brasil"
           >
-            <ul className="list-disc">
+            <ul className="list-disc > li ml-10">
               <li>
                 Desenvolvi uma plataforma de serviços utilizando Laravel e
                 JavaScript para levar rapidamente ao mercado o calculador de
@@ -97,7 +97,7 @@ function Experiences() {
             duration="Junho 2019 - Fevereiro 2020"
             location="Estados Unidos"
           >
-            <ul className="list-disc">
+            <ul className="list-disc > li ml-10">
               <li>
                 Desenvolvi novas funcionalidades e aperfeiçoei as existentes
                 para diversos projetos na indústria do vinho, utilizando Laravel
@@ -122,7 +122,7 @@ function Experiences() {
             duration="Novembro 2018 - Abril 2019"
             location="Uberlandia, MG - Brasil"
           >
-            <ul className="list-disc">
+            <ul className="list-disc > li ml-10">
               <li>
                 Reestruturação de Produto SaaS: reestruturação completa do
                 produto SaaS seguindo o modelo MVC, utilizando o framework
@@ -152,7 +152,7 @@ function Experiences() {
             duration="Maio 2018 - Outubro 2018"
             location="Uberlandia, MG - Brasil"
           >
-            <ul className="list-disc">
+            <ul className="list-disc > li ml-10">
               <li>
                 Desenvolvimento de Soluções Financeiras: Criou soluções
                 avançadas para o mercado financeiro usando .NET Core 2.0 e
@@ -189,7 +189,7 @@ function Experiences() {
             duration="Outubro 2014 - Outubro 2018"
             location="Palmas, TO - Brasil"
           >
-            <ul className="list-disc">
+            <ul className="list-disc > li ml-10">
               <li>
                 Gestão de Aplicações: Manteve, aprimorou e deu suporte a mais de
                 50 aplicações web armazenadas no servidor Git da empresa, usando
@@ -225,7 +225,7 @@ function Experiences() {
             duration="Agosto 2010/2012/2014 - Outubro 2010/2012/2014"
             location="Palmas, TO - Brasil"
           >
-            <ul className="list-disc">
+            <ul className="list-disc > li ml-10">
               <li>
                 Recrutado durante uma campanha política: Gerenciei a comunicação
                 em rede entre PCs Macintosh e Windows.

@@ -1,4 +1,6 @@
-module.exports = {
+import type { NextConfig } from "next";
+
+const nextConfig: NextConfig = {
   i18n: {
     // These are all the locales you want to support in
     // your application
@@ -7,4 +9,9 @@ module.exports = {
     // a non-locale prefixed path e.g. `/hello`
     defaultLocale: "pt-BR",
   },
+  experimental: {
+    typedRoutes: true,
+  },
 };
+
+export default nextConfig;

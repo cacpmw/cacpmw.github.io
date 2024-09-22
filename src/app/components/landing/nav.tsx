@@ -1,8 +1,7 @@
-import Link from "next/link";
 import Image from "next/image";
 
-import gitHubIcon from "../../public/icons/github-mark.svg";
-import linkedinIcon from "../../public/icons/linkedin-48.svg";
+import gitHubIcon from "@/public/icons/github-mark.svg";
+import linkedinIcon from "@/public/icons/linkedin-48.svg";
 
 function Nav() {
   return (
@@ -24,7 +23,6 @@ function Nav() {
           alt="Follow me on Github"
         />
       </a>
-      {/* <Link href="/blog">| Blog</Link> */}
     </nav>
   );
 }

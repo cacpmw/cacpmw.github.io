@@ -1,12 +1,12 @@
 import Image from "next/image";
-import profilePicture from "../public/images/profile.jpg";
-import Experiences from "../components/landing/experiences";
-import Skills from "../components/landing/skills";
-import Education from "../components/landing/education";
-import Volunteering from "../components/landing/volunteering";
-import Certificates from "../components/landing/certificates";
+import profilePicture from "@/public/images/profile.jpg";
+import Experiences from "@/app/components/landing/experiences";
+import Skills from "@/app/components/landing/skills";
+import Education from "@/app/components/landing/education";
+import Volunteering from "@/app/components/landing/volunteering";
+import Certificates from "@/app/components/landing/certificates";
 
-function Landing() {
+export default function Cv() {
   return (
     <div className="flex flex-col min-h-screen md:flex-row">
       <nav className="bg-gray-200 md:min-w-96 space-y-10 w-full px-8 py-12 md:px-10 md:py-16 md:w-1/3 ">
@@ -72,5 +72,3 @@ function Landing() {
     </div>
   );
 }
-
-export default Landing;
