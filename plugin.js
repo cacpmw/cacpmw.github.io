@@ -45,7 +45,7 @@ Kinbox.on("callback", function (data) {
 
 async function asaas(event) {
     const response = await callN8N(event,{payload:{
-      conversation,
+      conversation.contact,
       data: "success"
     }})
 }
