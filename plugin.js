@@ -42,3 +42,13 @@ Kinbox.on("callback", function (data) {
         }
     }
 })
+
+async function toast() {
+    const response = await callN8N("toast",{payload:"success"})
+    if(response.data==="success"){
+      Kinbox.toast("success", "Toast de sucesso")
+    setTimeout(() => {
+        Kinbox.toast("info", "Toast de info")
+    }, 500)
+    }
+}
