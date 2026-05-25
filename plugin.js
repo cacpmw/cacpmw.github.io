@@ -44,7 +44,10 @@ Kinbox.on("callback", function (data) {
 })
 
 async function toast() {
-    const response = await callN8N("toast",{payload:"success"})
+    const response = await callN8N("toast",{payload:{
+      conversation,
+      payload: "success"
+    }})
     if(response.data==="success"){
       Kinbox.toast("success", "Toast de sucesso")
     }
